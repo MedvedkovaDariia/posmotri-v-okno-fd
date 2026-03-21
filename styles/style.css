@@ -66,8 +66,8 @@ ol {
 
 .content {
   width: 1140px;
-  height: 534px; 
-  display: flex; 
+  height: 534px;
+  display: flex;
   flex-direction: row;
   align-items: flex-end;
   gap: 30px;
@@ -131,8 +131,8 @@ ol {
 }
 
 .search-form__fieldset {
-  border: none; 
-  text-decoration: none; 
+  border: none;
+  text-decoration: none;
 }
 
 .search-form__textfield::placeholder {
@@ -148,14 +148,14 @@ ol {
 }
 
 .search-form__label {
-  display:flex;
+  display: flex;
   flex-direction: row;
   align-items: center;
   width: fit-content;
   gap: 5px;
 }
 
-.search-form__label:hover .search-form__label-text{
+.search-form__label:hover .search-form__label-text {
   text-decoration: underline;
   cursor: pointer;
 }
@@ -170,7 +170,7 @@ input[type="text"] {
   line-height: 100%;
   color: #fff;
   background-color: transparent;
-  border: none; 
+  border: none;
   padding: 2.5px 14px 2.5px 0;
   width: 225px;
   height: 27px;
